@@ -82,4 +82,4 @@ ros2 launch sllidar_ros2 view_sllidar_s1_tcp_launch.py
 ```
 
 # Reference.
-[SLAMTEC LIDAR ROS2 Package](https://github.com/Slamtec/sllidar_ros2 "SLAMTEC LIDAR ROS2 Package")
+[SLAMTEC LIDAR ROS2 Package](https://github.com/Slamtec/sllidar_ros2)
