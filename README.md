@@ -44,6 +44,12 @@ cd ~/ros2_ws
 source install/setup.bash
 ```
 
+# Setp 4: Configure Serial Port
+Please modify the Python launch file Serial Port based on the LiDAR Model.
+For example, if you choose RPLIDAR A2M12, you should modify: sllidar_a2m12_launch.py, view_sllidar_a2m12_launch.py.
+The original Serial Port: /dev/ttyUSB0, you should modify it to /dev/avalue_rplidar.
+Because of we have created symbolic link on the LiDAR Serial Port via udev rules.
+
 # Usage
 ```bash
 # RPLIDAR A1
