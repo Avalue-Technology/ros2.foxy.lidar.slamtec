@@ -22,7 +22,7 @@ Our repository is licensed under the **MIT License**, which applies only to this
 
 ## Step 1: Install ROS2 foxy, on Ubuntu 20.04
 If your target machine does not yet have ROS2 Foxy installed, please refer to the following documentation for installation instructions.
-Reference - [ros2.foxy.aib-nw01](https://github.com/AlexChang633/ros2.foxy.aib-nw01 "ros2.foxy.aib-nw01")
+Reference - [ros2.foxy.aib-nw01](https://github.com/Avalue-Technology/ros2.foxy.AIB-NW01 "ros2.foxy.aib-nw01")
 
 ## Step 2: Build SLAMTEC LIDAR ROS2
 ```bash
